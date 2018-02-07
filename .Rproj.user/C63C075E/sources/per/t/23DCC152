@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1517997644448.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "262270208",
+    "id" : "23DCC152",
+    "lastKnownWriteTime" : 1517997881,
+    "last_content_update" : 1517997881293,
+    "path" : "~/git/emissie_imjv/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "2,10",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

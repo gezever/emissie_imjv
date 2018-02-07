@@ -1,0 +1,12 @@
+name: imjv_emissies_kaart
+title:
+username:
+account: gezever
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 217811
+bundleId: 1204649
+url: https://gezever.shinyapps.io/imjv_emissies_kaart/
+when: 1517583215.41623
+asMultiple: FALSE
+asStatic: FALSE
